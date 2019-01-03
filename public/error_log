@@ -1,0 +1,10 @@
+[06-Mar-2018 00:39:45 UTC] PHP Parse error:  syntax error, unexpected 'Lux' (T_STRING) in /home/seriallinkcom/public_html/systemseg_v2/app/Http/Controllers/MapaController.php on line 112
+[13-May-2018 22:41:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php on line 411
+[13-May-2018 22:42:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/String.php on line 0
+[13-May-2018 22:44:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/String.php on line 278
+[13-May-2018 22:45:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php on line 411
+[01-Aug-2018 10:57:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel5.php on line 166
+[01-Aug-2018 11:00:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/Excel5.php on line 166
+[01-Aug-2018 11:25:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/Drawing.php on line 71
+[01-Aug-2018 11:26:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Style/NumberFormat.php on line 256
+[01-Aug-2018 11:30:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/seriallinkcom/public_html/systemseg_v2/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/Font.php on line 259
